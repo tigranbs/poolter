@@ -6,7 +6,7 @@ description = """
 license = "BSD"
 version = "0.1.0"
 authors = ["Tigran Bayburtsyan <tigran@bayburtsyan.com>"]
-keywords = ["thread pool", "thread", "concurrency"]
+keywords = ["thread-pool", "thread", "concurrency"]
 documentation = "https://github.com/tigranbs/poolter"
 homepage = "https://github.com/tigranbs/poolter"
 
