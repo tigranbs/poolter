@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Tigran Bayburtsyan <tigran@bayburtsyan.com>"]
 
 [dependencies]
+num_cpus = "1.0"
