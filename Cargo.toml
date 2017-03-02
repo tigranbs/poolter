@@ -1,0 +1,6 @@
+[package]
+name = "poolter"
+version = "0.1.0"
+authors = ["Tigran Bayburtsyan <tigran@bayburtsyan.com>"]
+
+[dependencies]
